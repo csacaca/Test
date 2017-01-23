@@ -1,0 +1,8 @@
+{
+    "require": {
+        "slim/slim": "^3.7",
+        "slim/php-view": "^2.2",
+        "slim/twig-view": "^2.1",
+        "php2wsdl/php2wsdl": "^0.5.0"
+    }
+}
